@@ -1,0 +1,5 @@
+tensorflow
+keras
+natural language processing
+cnn (Convolution neural networks)
+data cleaning
